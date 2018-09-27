@@ -1,1 +1,0 @@
-# Smartchart-App
